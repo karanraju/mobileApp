@@ -1,0 +1,22 @@
+<svg id="Icon_32px_3" data-name="Icon / 32px /  3" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Icon_64px_004-broken_bone_Background_Mask_" data-name="Icon / 64px / 004-broken bone (Background/Mask)" width="64" height="64" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Icon_32px_3-2" data-name="Icon / 32px /  3">
+    <rect id="Icon_64px_004-broken_bone_Background_Mask_2" data-name="Icon / 64px / 004-broken bone (Background/Mask)" width="64" height="64" fill="none"/>
+    <g id="Icon_32px_3-3" data-name="Icon / 32px /  3" clip-path="url(#clip-path)">
+      <path id="Vector" d="M12,64A12,12,0,0,1,0,52V12A12,12,0,0,1,12,0H52A12,12,0,0,1,64,12V52A12,12,0,0,1,52,64Z" fill="#f2f6fe"/>
+      <g id="Group" transform="translate(36 34.666)">
+        <path id="Vector-2" data-name="Vector" d="M1.724,3.611.39,2.277A1.334,1.334,0,0,1,2.276.391L3.61,1.725A1.334,1.334,0,0,1,1.724,3.611Z" transform="translate(4 3.999)" fill="#f5204e"/>
+        <path id="Vector-3" data-name="Vector" d="M1.334,2.668A1.334,1.334,0,0,1,1.334,0H2.668a1.334,1.334,0,1,1,0,2.668Z" transform="translate(5.332)" fill="#f5204e"/>
+        <path id="Vector-4" data-name="Vector" d="M0,2.666V1.332a1.334,1.334,0,0,1,2.668,0V2.668A1.334,1.334,0,0,1,0,2.666Z" transform="translate(0 5.334)" fill="#f5204e"/>
+      </g>
+      <g id="Group-2" data-name="Group" transform="translate(17.332 16)">
+        <path id="Vector-5" data-name="Vector" d="M5.471,17.311a5.928,5.928,0,0,1-4.992-3,2.891,2.891,0,0,1-.336-2.48,2.975,2.975,0,0,1,1.87-1.764,5.606,5.606,0,0,0,3.96-6.148A2.712,2.712,0,0,1,7.625,1.129a12.456,12.456,0,0,1,4.026-1.1A2.664,2.664,0,0,1,14.271,1,2.679,2.679,0,0,1,14.279,3.8c-.514,1.006-1.108,1.966-1.684,2.9l-.526.852A18.146,18.146,0,0,0,9.4,14.279a3.285,3.285,0,0,1-3.472,3.052h0C5.781,17.331,5.627,17.325,5.471,17.311Z" transform="translate(14.666)" fill="#f5204e"/>
+        <path id="Vector-6" data-name="Vector" d="M2.616,15.9A2.765,2.765,0,0,1,.16,14.343a2.658,2.658,0,0,1,.622-2.732c.744-.88,1.562-1.7,2.354-2.488L3.86,8.4A17.892,17.892,0,0,0,8.042,2.351,3.453,3.453,0,0,1,12.672.227,6.216,6.216,0,0,1,17.13,4.261a2.856,2.856,0,0,1-.166,2.508,3.03,3.03,0,0,1-2.3,1.352c-3.208.466-4.928,2.116-5.416,5.194a2.729,2.729,0,0,1-2.282,2.4,11.408,11.408,0,0,1-2.624.284h0C3.692,15.995,3.1,15.951,2.616,15.9Z" transform="translate(0 16.004)" fill="#8f9596"/>
+      </g>
+    </g>
+  </g>
+</svg>

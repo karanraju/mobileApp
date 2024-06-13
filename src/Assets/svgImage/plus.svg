@@ -1,0 +1,15 @@
+<svg id="Icon_24px_Main_icon_24pxMathPlus_1" data-name="Icon / 24px / Main / icon_24pxMathPlus_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Icon_24px_math-plus_1_Background_Mask_" data-name="Icon / 24px / math-plus 1 (Background/Mask)" width="24" height="24" fill="none" stroke="#FFFFFF" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Icon_24px_math-plus_1" data-name="Icon / 24px / math-plus 1">
+    <rect id="Icon_24px_math-plus_1_Background_Mask_2" data-name="Icon / 24px / math-plus 1 (Background/Mask)" width="24" height="24" fill="none"/>
+    <g id="Icon_24px_math-plus_1-2" data-name="Icon / 24px / math-plus 1" clip-path="url(#clip-path)">
+      <g id="Group" transform="translate(4 4)">
+        <path id="Vector" d="M7.293.293A1,1,0,0,0,7,1V7H1A1,1,0,0,0,1,9H7v6a1,1,0,1,0,2,0V9h6a1,1,0,1,0,0-2H9V1A1,1,0,0,0,8,0H8A1,1,0,0,0,7.293.293Z" fill="#FFFFFF"/>
+      </g>
+    </g>
+  </g>
+</svg>

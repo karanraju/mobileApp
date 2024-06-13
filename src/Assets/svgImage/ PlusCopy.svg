@@ -1,0 +1,10 @@
+<svg id="Icon_16px_Plus_Copy" data-name="Icon / 16px / Plus Copy" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <g id="Icon_24px_Plus" data-name="Icon / 24px / Plus">
+    <rect id="Icon_24px_Plus_Background_" data-name="Icon / 24px / Plus (Background)" width="16" height="16" fill="none"/>
+    <g id="Plus" transform="translate(1.533 1.533)">
+      <path id="Stroke_1" data-name="Stroke 1" d="M.351,0V4.766" transform="translate(6.141 4.108)" fill="none" stroke="#f5204e" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" stroke-dasharray="0 0"/>
+      <path id="Stroke_2" data-name="Stroke 2" d="M4.771.351H0" transform="translate(4.106 6.14)" fill="none" stroke="#f5204e" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" stroke-dasharray="0 0"/>
+      <path id="Stroke_3" data-name="Stroke 3" d="M6.491,0c4.868,0,6.491,1.623,6.491,6.491s-1.623,6.491-6.491,6.491S0,11.359,0,6.491,1.623,0,6.491,0Z" fill="none" stroke="#f5204e" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" stroke-dasharray="0 0"/>
+    </g>
+  </g>
+</svg>

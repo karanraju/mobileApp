@@ -1,0 +1,9 @@
+<svg id="Icon_24px_Main_icon_24pxVideo" data-name="Icon / 24px / Main / icon_24pxVideo" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Icon_24px_Video" data-name="Icon / 24px / Video">
+    <rect id="Icon_24px_Video_Background_" data-name="Icon / 24px / Video (Background)" width="24" height="24" fill="none"/>
+    <g id="Video" transform="translate(2.515 5.114)">
+      <path id="Stroke_1" data-name="Stroke 1" d="M0,2.466C1.838,1.009,4.3-.4,4.771.1c.771.829.7,8.714,0,9.467-.429.467-2.914-.943-4.771-2.39" transform="translate(13.637 2.092)" fill="rgba(0,0,0,0)" stroke="#f5204e" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" stroke-dasharray="0 0"/>
+      <path id="Stroke_3" data-name="Stroke 3" d="M6.9,0c5.175,0,6.9,1.73,6.9,6.923s-1.725,6.923-6.9,6.923S0,12.114,0,6.923,1.725,0,6.9,0Z" fill="rgba(0,0,0,0)" stroke="#f5204e" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" stroke-dasharray="0 0"/>
+    </g>
+  </g>
+</svg>

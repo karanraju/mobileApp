@@ -1,0 +1,8 @@
+<svg id="Icon_16px_Search_Copy" data-name="Icon / 16px / Search Copy" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <g id="Icon_24px_Search" data-name="Icon / 24px / Search">
+    <rect id="Icon_24px_Search_Background_" data-name="Icon / 24px / Search (Background)" width="16" height="16" fill="none"/>
+    <g id="Search" transform="translate(1.333 1.333)">
+      <path id="Search-2" data-name="Search" d="M10.879,10.164h0l-.054-.082a.54.54,0,0,0-.758,0h0a5.408,5.408,0,0,1-7.012.227A5.119,5.119,0,0,1,1.917,3.54,5.384,5.384,0,0,1,8.635,1.561a5.161,5.161,0,0,1,2.876,6.257.519.519,0,0,0,.121.514.548.548,0,0,0,.516.155.535.535,0,0,0,.4-.36h0A6.223,6.223,0,0,0,9.211.627a6.5,6.5,0,0,0-8.085,2.1,6.171,6.171,0,0,0,.907,8.129,6.526,6.526,0,0,0,8.357.344l2.029,1.984a.546.546,0,0,0,.758,0,.523.523,0,0,0,0-.747h0L13.17,12.4Z" fill="#f5204e"/>
+    </g>
+  </g>
+</svg>

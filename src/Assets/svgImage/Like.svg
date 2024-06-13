@@ -1,0 +1,9 @@
+<svg id="Like" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <circle id="Frame" cx="16" cy="16" r="16" fill="#fff"/>
+  <g id="Icon_24px_Heart" data-name="Icon / 24px / Heart" transform="translate(8 8)">
+    <rect id="Icon_24px_Heart_Background_" data-name="Icon / 24px / Heart (Background)" width="16" height="16" fill="none"/>
+    <g id="Heart" transform="translate(1.7 2.367)">
+      <path id="Stroke_1" data-name="Stroke 1" d="M2.714.166a3.246,3.246,0,0,1,3.62,1.127A3.154,3.154,0,0,1,9.947.166c2.344.755,3.185,3.531,2.471,5.765-1.113,3.54-5,5.384-6.084,5.384S1.4,9.512.248,5.931C-.468,3.7.369.921,2.714.166Z" fill="none" stroke="#b2bac6" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" stroke-dasharray="0 0"/>
+    </g>
+  </g>
+</svg>

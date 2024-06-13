@@ -1,0 +1,7 @@
+<svg id="Icon_16px_StarArrow_-_Right" data-name="Icon / 16px / StarArrow - Right" xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 12 12">
+  <rect id="Icon_16px_StarArrow_-_Right_Background_" data-name="Icon / 16px / StarArrow - Right (Background)" width="12" height="12" fill="none"/>
+  <g id="Arrow_-_Right" data-name="Arrow - Right" transform="translate(3.113 2.113)">
+    <path id="Stroke_1" data-name="Stroke 1" d="M.25,7.5V0" transform="translate(-0.738 4) rotate(-90)" fill="#f5204e" stroke="#f5204e" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" stroke-dasharray="0 0"/>
+    <path id="Stroke_3" data-name="Stroke 3" d="M6.024,0S4.394,3.025,3.013,3.025,0,0,0,0" transform="translate(3.737 6.762) rotate(-90)" fill="none" stroke="#f5204e" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" stroke-dasharray="0 0"/>
+  </g>
+</svg>

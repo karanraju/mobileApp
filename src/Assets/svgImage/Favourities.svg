@@ -1,0 +1,21 @@
+<svg id="Icon_64px_microscope" data-name="Icon / 64px / microscope" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="_011-heart_rate_Background_Mask_" data-name="011-heart rate (Background/Mask)" width="32" height="32" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Icon_64px_Heart_Rate" data-name="Icon / 64px / Heart Rate">
+    <g id="_011-heart_rate" data-name="011-heart rate">
+      <rect id="_011-heart_rate_Background_Mask_2" data-name="011-heart rate (Background/Mask)" width="32" height="32" fill="none"/>
+      <g id="_011-heart_rate-2" data-name="011-heart rate" clip-path="url(#clip-path)">
+        <g id="_10-Heart" data-name="10-Heart" transform="translate(0.5 2.5)">
+          <path id="Vector" d="M15.5,4.91A8.147,8.147,0,0,0,7.75,0C3.575,0,0,2.455,0,8.1a16.657,16.657,0,0,0,.46,3.91C2.885,22.12,14.16,27,15.5,27c1.315,0,12.25-4.72,14.915-14.5A16.562,16.562,0,0,0,31,8.1C31,2.455,27.425,0,23.25,0A8.147,8.147,0,0,0,15.5,4.91Z" fill="#e63b47"/>
+          <path id="Vector-2" data-name="Vector" d="M19.317,11.5A11,11,0,0,0,29.634,4.322C28.4,1.345,25.651,0,22.567,0a8.147,8.147,0,0,0-7.75,4.91A8.147,8.147,0,0,0,7.067,0C3.982,0,1.23,1.345,0,4.322A11,11,0,0,0,10.317,11.5h9Z" transform="translate(0.683)" fill="#ff505b"/>
+          <path id="Vector-3" data-name="Vector" d="M.005,1.563a1.024,1.024,0,0,0,.5.589c.424.29.878.55,1.333.807.871.493,1.747.979,2.654,1.425a5.232,5.232,0,0,0,1.837.608,1.556,1.556,0,0,0,.444-.016,1.313,1.313,0,0,0,.7-.437,2.206,2.206,0,0,0,.16-2.655C6.327-.221,2.87-.5.655.732h0C.305.925-.047,1.217.005,1.563Z" transform="translate(19.999 1.5)" fill="#ff99a0"/>
+          <path id="Vector-4" data-name="Vector" d="M.005,1.563a1.024,1.024,0,0,0,.5.589c.424.29.877.55,1.332.807.871.493,1.75.979,2.655,1.425a5.232,5.232,0,0,0,1.836.608,1.556,1.556,0,0,0,.444-.016,1.313,1.313,0,0,0,.7-.437,2.206,2.206,0,0,0,.16-2.655C6.327-.221,2.87-.5.655.732h0C.305.925-.047,1.217.005,1.563Z" transform="translate(5.499 1.5)" fill="#ff99a0"/>
+          <path id="Vector-5" data-name="Vector" d="M30.141,6.5H22.919L20.565,2.736a.5.5,0,0,0-.875.05l-4.5,9.45L10.608.321A.5.5,0,0,0,9.693.277L6.832,6H.141A.491.491,0,0,0,0,6.029c.034.161.063.324.1.482s.088.327.133.49H7.141a.5.5,0,0,0,.448-.276l2.493-4.986L14.674,13.68a.5.5,0,0,0,.448.32h.019a.5.5,0,0,0,.45-.285L20.2,4.039l2.016,3.226a.5.5,0,0,0,.426.236H29.9c.05-.167.105-.331.15-.5s.08-.329.12-.493h0C30.163,6.507,30.153,6.5,30.141,6.5Z" transform="translate(0.359 5.499)" fill="#fbfbfb"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

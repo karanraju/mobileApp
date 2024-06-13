@@ -1,0 +1,50 @@
+<svg id="Icon_64px_microscope_Copy_3" data-name="Icon / 64px / microscope Copy 3" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="_024-heart_rate_monitor_Background_Mask_" data-name="024-heart rate monitor (Background/Mask)" width="32" height="32" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Icon_64px_heart_rate_monitor" data-name="Icon / 64px / heart rate monitor">
+    <g id="_024-heart_rate_monitor" data-name="024-heart rate monitor">
+      <rect id="_024-heart_rate_monitor_Background_Mask_2" data-name="024-heart rate monitor (Background/Mask)" width="32" height="32" fill="none"/>
+      <g id="_024-heart_rate_monitor-2" data-name="024-heart rate monitor" clip-path="url(#clip-path)">
+        <g id="_23-Heart_rate_monitor" data-name="23-Heart rate monitor" transform="translate(0.5 2.5)">
+          <g id="Group" transform="translate(23 7)">
+            <path id="Vector" d="M2,2H1A1,1,0,0,1,0,1,1.008,1.008,0,0,1,1,0H2Z" transform="translate(0 4)" fill="#ff505b"/>
+            <path id="Vector-2" data-name="Vector" d="M2,2H1A1,1,0,0,1,0,1,1.008,1.008,0,0,1,1,0H2Z" transform="translate(0 2)" fill="#ff505b"/>
+            <path id="Vector-3" data-name="Vector" d="M2,2H1A1,1,0,0,1,0,1,1.008,1.008,0,0,1,1,0H2Z" fill="#ff505b"/>
+          </g>
+          <path id="Vector-4" data-name="Vector" d="M1.706.294A1,1,0,0,1,2,1,1.008,1.008,0,0,1,1,2H0V0H1A1,1,0,0,1,1.706.294Z" transform="translate(25 11)" fill="#006fdb"/>
+          <path id="Vector-5" data-name="Vector" d="M1.706.294A1,1,0,0,1,2,1,1.008,1.008,0,0,1,1,2H0V0H1A1,1,0,0,1,1.706.294Z" transform="translate(25 9)" fill="#006fdb"/>
+          <path id="Vector-6" data-name="Vector" d="M1.706.294A1,1,0,0,1,2,1,1.008,1.008,0,0,1,1,2H0V0H1A1,1,0,0,1,1.706.294Z" transform="translate(25 7)" fill="#006fdb"/>
+          <path id="Vector-7" data-name="Vector" d="M.39.539A1,1,0,0,1,.035,0,.987.987,0,0,0,0,.25a1,1,0,0,0,1,1H2V.75H1A1,1,0,0,1,.39.539Z" transform="translate(23 7.75)" fill="#d13641"/>
+          <path id="Vector-8" data-name="Vector" d="M1.383.674A.978.978,0,0,1,1,.75H0v.5H1A.987.987,0,0,0,1.964,0,.966.966,0,0,1,1.7.455.977.977,0,0,1,1.383.674Z" transform="translate(25 7.75)" fill="#004080"/>
+          <path id="Vector-9" data-name="Vector" d="M.39.539A1,1,0,0,1,.035,0,.987.987,0,0,0,0,.25a1,1,0,0,0,1,1H2V.75H1A1,1,0,0,1,.39.539Z" transform="translate(23 9.75)" fill="#d13641"/>
+          <path id="Vector-10" data-name="Vector" d="M1.383.674A.978.978,0,0,1,1,.75H0v.5H1A.987.987,0,0,0,1.964,0,.966.966,0,0,1,1.7.455.977.977,0,0,1,1.383.674Z" transform="translate(25 9.75)" fill="#004080"/>
+          <path id="Vector-11" data-name="Vector" d="M.39.539A1,1,0,0,1,.035,0,.987.987,0,0,0,0,.25a1,1,0,0,0,1,1H2V.75H1A1,1,0,0,1,.39.539Z" transform="translate(23 11.75)" fill="#d13641"/>
+          <path id="Vector-12" data-name="Vector" d="M1.383.674A.978.978,0,0,1,1,.75H0v.5H1A.987.987,0,0,0,1.964,0,.966.966,0,0,1,1.7.455.977.977,0,0,1,1.383.674Z" transform="translate(25 11.75)" fill="#004080"/>
+          <path id="Vector-13" data-name="Vector" d="M.5,1A.5.5,0,1,1,1,.5.5.5,0,0,1,.5,1Z" transform="translate(24.5 16)" fill="#fbfbfb"/>
+          <path id="Vector-14" data-name="Vector" d="M2,4a2,2,0,1,1,1.414-.586A1.995,1.995,0,0,1,2,4ZM2,1.5a.5.5,0,1,0,.191.038A.5.5,0,0,0,2,1.5Z" transform="translate(23 14.5)" fill="#ff505b"/>
+          <path id="Vector-15" data-name="Vector" d="M1,2A1,1,0,1,1,2,1,1,1,0,0,1,1,2Z" transform="translate(24 3.5)" fill="#e63b47"/>
+          <path id="Vector-16" data-name="Vector" d="M3.372.047A.919.919,0,0,1,4,.9C4,2.254,2.335,3,2,3c-.165,0-2-.75-2-2.1A.919.919,0,0,1,1,0a1.034,1.034,0,0,1,1,.75A1.034,1.034,0,0,1,3,0H3A.919.919,0,0,1,3.372.047Z" transform="translate(15 13.496)" fill="#e63b47"/>
+          <path id="Vector-17" data-name="Vector" d="M17,15H0V0H17V15Zm-5.081-5a.92.92,0,0,0-.92.9,2.038,2.038,0,0,0,.938,1.556A3.123,3.123,0,0,0,13,13a2.555,2.555,0,0,0,1.125-.544A2.024,2.024,0,0,0,15,10.9a.919.919,0,0,0-.919-.9c-.027,0-.054,0-.081,0h-.006a1.034,1.034,0,0,0-.994.75,1.035,1.035,0,0,0-.994-.75H12C11.973,10,11.946,10,11.919,10Z" transform="translate(4 3.5)" fill="#393d48"/>
+          <path id="Vector-18" data-name="Vector" d="M25,18H1a1,1,0,0,1-1-1V1A1,1,0,0,1,1,0H25a1.009,1.009,0,0,1,.706.294A1,1,0,0,1,26,1V17a1,1,0,0,1-.294.706A1.009,1.009,0,0,1,25,18ZM1.5,1.5v15h17V1.5Zm21,11a2,2,0,1,0,1.414.586A1.992,1.992,0,0,0,22.5,12.5ZM21.5,5a1,1,0,0,0,0,2,1,1,0,0,0,0,2,1,1,0,0,0,0,2h2a1,1,0,0,0,0-2,1,1,0,0,0,0-2,1,1,0,0,0,0-2h-2Zm1-3.5a1,1,0,0,0-1,1,1.009,1.009,0,0,0,.294.706A1,1,0,1,0,22.5,1.5Z" transform="translate(2.5 2)" fill="#edf4fa"/>
+          <path id="Vector-19" data-name="Vector" d="M1.064,1.793A3,3,0,0,0,3,2.5H28a3,3,0,0,0,1.936-.712A3,3,0,0,0,30.955,0L31,0V1.5a3,3,0,0,1-3,3H3a3,3,0,0,1-3-3V0L.045,0A3,3,0,0,0,1.064,1.793Z" transform="translate(0 22.495)" fill="#393d48"/>
+          <path id="Vector-20" data-name="Vector" d="M28,25H3A3,3,0,0,1,.045,22.5,2.694,2.694,0,0,1,0,22V3A3,3,0,0,1,3,0H28a3,3,0,0,1,3,3V22a2.694,2.694,0,0,1-.045.5A3,3,0,0,1,28,25ZM3.5,2a1,1,0,0,0-1,1V19a1,1,0,0,0,1,1h24a1,1,0,0,0,1-1V3a1,1,0,0,0-1-1Z" transform="translate(0 0)" fill="#006fdb"/>
+          <path id="Vector-21" data-name="Vector" d="M3,0A3,3,0,0,0,0,3V4A3,3,0,0,1,3,1H28a3,3,0,0,1,3,3V3a3,3,0,0,0-3-3Z" transform="translate(0)" fill="#4aa4f2"/>
+          <path id="Vector-22" data-name="Vector" d="M2,4A2,2,0,0,1,2,0,1.986,1.986,0,0,1,3.414.586,2,2,0,0,1,2,4ZM2,.5A1.5,1.5,0,0,0,.614,2.574,1.5,1.5,0,1,0,2,.5Z" transform="translate(23 14.5)" fill="#e63b47"/>
+          <path id="Vector-23" data-name="Vector" d="M25,18H1a1,1,0,0,1-1-1V1A1,1,0,0,1,1,0H25a1.009,1.009,0,0,1,.706.294A1,1,0,0,1,26,1V17a1,1,0,0,1-.294.706A1.009,1.009,0,0,1,25,18ZM1,.5A.5.5,0,0,0,.5,1V17a.5.5,0,0,0,.5.5H25a.5.5,0,0,0,.5-.5V1A.5.5,0,0,0,25,.5Z" transform="translate(2.5 2)" fill="#a8b7d4"/>
+          <path id="Vector-24" data-name="Vector" d="M1.5,3A1.5,1.5,0,0,1,.029,1.793,1.5,1.5,0,0,1,2.561.439a1.5,1.5,0,0,1,.187,1.894A1.5,1.5,0,0,1,1.5,3ZM1.5.5a1,1,0,1,0,.382.076A1,1,0,0,0,1.5.5Z" transform="translate(23.5 3)" fill="#a8b7d4"/>
+          <path id="Vector-25" data-name="Vector" d="M.6,0A1,1,0,1,0,1.915,1.319a.987.987,0,0,1-.41.09,1,1,0,0,1-1-1h0A.987.987,0,0,1,.6,0Z" transform="translate(23.995 3.591)" fill="#d13641"/>
+          <path id="Vector-26" data-name="Vector" d="M3.25,6.5h-2a1.242,1.242,0,0,1-.884-.366A1.259,1.259,0,0,1,0,5.25a1.223,1.223,0,0,1,.369-.885A1.139,1.139,0,0,1,.5,4.25a1.249,1.249,0,0,1-.5-1,1.223,1.223,0,0,1,.369-.884A1.139,1.139,0,0,1,.5,2.25,1.252,1.252,0,0,1,1.25,0h2a1.257,1.257,0,0,1,.884.366A1.242,1.242,0,0,1,4.5,1.25a1.223,1.223,0,0,1-.369.884A1.139,1.139,0,0,1,4,2.25a1.249,1.249,0,0,1,.5,1,1.223,1.223,0,0,1-.369.885A1.138,1.138,0,0,1,4,4.25a1.246,1.246,0,0,1,.132,1.882A1.247,1.247,0,0,1,3.25,6.5ZM1.25.25a1,1,0,0,0,0,2,1,1,0,0,0,0,2,1,1,0,0,0,0,2h2a1,1,0,0,0,0-2,1,1,0,0,0,0-2,1,1,0,0,0,0-2Z" transform="translate(22.75 6.75)" fill="#a8b7d4"/>
+          <path id="Vector-27" data-name="Vector" d="M18,16H0V0H18V16ZM.5.5v15h17V.5Z" transform="translate(3.5 3)" fill="#a8b7d4"/>
+          <path id="Vector-28" data-name="Vector" d="M4.843,10.657A8,8,0,0,1,2.5,5V0H0V15H17V13H10.5A8,8,0,0,1,4.843,10.657Z" transform="translate(4 3.5)" fill="#2b2b37"/>
+          <path id="Vector-29" data-name="Vector" d="M11.83,3.5,10.459.3a.5.5,0,0,0-.918,0L7.436,5.354l-2-3.6a.5.5,0,0,0-.9.046L3.38,4.509,2.4,3.2A.5.5,0,0,0,2,3H.5a.5.5,0,1,0,0,1H1.75L3.1,5.8a.494.494,0,0,0,.459.2.5.5,0,0,0,.4-.3l1.1-2.563L7.064,6.742A.5.5,0,0,0,7.5,7h.028a.5.5,0,0,0,.434-.307l2.045-4.908L11.041,4.2a.5.5,0,0,0,.459.3h2a.5.5,0,1,0,0-1H11.83Z" transform="translate(5.5 5)" fill="#e63b47"/>
+          <path id="Vector-30" data-name="Vector" d="M2,4H1A1,1,0,0,1,0,3V1A1,1,0,0,1,1,0H2A1,1,0,0,1,3,1V3A1,1,0,0,1,2,4ZM1,1V3H2V1Z" transform="translate(11 13)" fill="#d6e0eb"/>
+          <path id="Vector-31" data-name="Vector" d="M25.5,19H1.5A1.5,1.5,0,0,1,0,17.5V1.5A1.5,1.5,0,0,1,1.5,0h24A1.5,1.5,0,0,1,27,1.5v16A1.5,1.5,0,0,1,25.5,19ZM1.5.5a1,1,0,0,0-1,1v16a1,1,0,0,0,.294.706A1.009,1.009,0,0,0,1.5,18.5h24a1.009,1.009,0,0,0,.706-.294A1,1,0,0,0,26.5,17.5V1.5a1,1,0,0,0-1-1Z" transform="translate(2 1.5)" fill="#004080"/>
+          <path id="Vector-32" data-name="Vector" d="M3,2.5a3,3,0,0,1-1.936-.712A3,3,0,0,1,.045,0L0,0V1.5a3,3,0,0,0,3,3H4a1,1,0,0,1,1-1H28a3,3,0,0,0,3-3V0l-.045,0a3,3,0,0,1-1.019,1.793A3,3,0,0,1,28,2.5Z" transform="translate(0 22.495)" fill="#2b2b37"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

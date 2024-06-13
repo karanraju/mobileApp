@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <g id="Icon_20px_Swap" data-name="Icon / 20px / Swap" transform="translate(20) rotate(90)">
+    <g id="Icon_24px_Swap" data-name="Icon / 24px / Swap">
+      <rect id="Icon_24px_Swap_Background_" data-name="Icon / 24px / Swap (Background)" width="20" height="20" fill="none"/>
+      <g id="Swap" transform="translate(2.417 3.833)">
+        <path id="Stroke_1" data-name="Stroke 1" d="M.417,0V10.515" transform="translate(2.983 0.001)" fill="none" stroke="#f5204e" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" stroke-dasharray="0 0"/>
+        <path id="Stroke_3" data-name="Stroke 3" d="M0,3.417S1.808,0,3.4,0,6.8,3.417,6.8,3.417" fill="none" stroke="#f5204e" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" stroke-dasharray="0 0"/>
+        <path id="Stroke_5" data-name="Stroke 5" d="M.417,10.515V0" transform="translate(11.255 1.841)" fill="none" stroke="#f5204e" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" stroke-dasharray="0 0"/>
+        <path id="Stroke_7" data-name="Stroke 7" d="M6.8,0S4.988,3.417,3.4,3.417,0,0,0,0" transform="translate(8.274 8.94)" fill="none" stroke="#f5204e" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" stroke-dasharray="0 0"/>
+      </g>
+    </g>
+  </g>
+</svg>

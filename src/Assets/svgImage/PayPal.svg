@@ -1,0 +1,14 @@
+<svg id="Icon_24px_Main_icon_24pxPaypal" data-name="Icon / 24px / Main / icon_24pxPaypal" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Icon_24px_Paypal_Background_Mask_" data-name="Icon / 24px / Paypal (Background/Mask)" width="24" height="24" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Icon_24px_Paypal" data-name="Icon / 24px / Paypal">
+    <rect id="Icon_24px_Paypal_Background_Mask_2" data-name="Icon / 24px / Paypal (Background/Mask)" width="24" height="24" fill="none"/>
+    <g id="Icon_24px_Paypal-2" data-name="Icon / 24px / Paypal" clip-path="url(#clip-path)">
+      <path id="Vector" d="M13.148.053a.5.5,0,0,0-.272.393c-.018.164-.046.328-.081.5-.979,4.443-2.945,6.6-6.012,6.6h-4.5a.5.5,0,0,0-.489.4l-1.5,7.031-.268,1.79A1.5,1.5,0,0,0,1.493,18.55H4.5a1.493,1.493,0,0,0,1.455-1.139L7.174,12.55H9.783c3.079,0,5.207-2.455,5.992-6.913A5.226,5.226,0,0,0,13.626.069.5.5,0,0,0,13.148.053Z" transform="translate(6.317 5.45)" fill="#03a9f4"/>
+      <path id="Vector-2" data-name="Vector" d="M13.342,0H5.062A2.487,2.487,0,0,0,2.588,2.126L.017,19.277A1.5,1.5,0,0,0,1.5,21h3.84a.5.5,0,0,0,.489-.4L7.246,14h4.1c3.558,0,5.909-2.487,6.989-7.4a5.887,5.887,0,0,0,.1-.593,5.163,5.163,0,0,0-1.193-4.225A5.262,5.262,0,0,0,13.342,0Z" transform="translate(1.759)" fill="#283593"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,9 @@
+<svg id="Icon_16px_Time_Circle_Copy" data-name="Icon / 16px / Time Circle Copy" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <g id="Icon_24px_Time_Circle" data-name="Icon / 24px / Time Circle">
+    <rect id="Icon_24px_Time_Circle_Background_" data-name="Icon / 24px / Time Circle (Background)" width="16" height="16" fill="none"/>
+    <g id="Time_Circle" data-name="Time Circle" transform="translate(1.833 1.833)">
+      <path id="Stroke_1" data-name="Stroke 1" d="M6.167,12.333a6.167,6.167,0,1,1,6.167-6.167A6.167,6.167,0,0,1,6.167,12.333Z" fill="none" stroke="#f5204e" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" stroke-dasharray="0 0"/>
+      <path id="Stroke_3" data-name="Stroke 3" d="M3.02,3.281,0,3.231V0" transform="translate(5.941 3.397)" fill="none" stroke="#f5204e" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" stroke-dasharray="0 0"/>
+    </g>
+  </g>
+</svg>

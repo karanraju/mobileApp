@@ -1,0 +1,10 @@
+<svg id="Icon_20px_Lock" data-name="Icon / 20px / Lock" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <g id="Icon_24px_Lock" data-name="Icon / 24px / Lock">
+    <rect id="Icon_24px_Lock_Background_" data-name="Icon / 24px / Lock (Background)" width="20" height="20" fill="none"/>
+    <g id="Lock" transform="translate(3.542 2.292)">
+      <path id="Stroke_1" data-name="Stroke 1" d="M7.6,5.544V3.754A3.8,3.8,0,0,0,0,3.737V5.544" transform="translate(2.583)" fill="none" stroke="#808080" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" stroke-dasharray="0 0"/>
+      <path id="Stroke_3" data-name="Stroke 3" d="M.417,0V1.851" transform="translate(5.967 9.505)" fill="none" stroke="#808080" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" stroke-dasharray="0 0"/>
+      <path id="Stroke_5" data-name="Stroke 5" d="M0,5.226c0,3.92,1.6,5.227,6.383,5.227s6.384-1.307,6.384-5.227S11.171,0,6.383,0,0,1.307,0,5.226Z" transform="translate(0 5.062)" fill="none" stroke="#808080" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" stroke-dasharray="0 0"/>
+    </g>
+  </g>
+</svg>

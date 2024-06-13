@@ -1,0 +1,9 @@
+<svg id="Icon_16px_Danger_Square_Copy" data-name="Icon / 16px / Danger Square Copy" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <g id="Icon_24px_Discovery" data-name="Icon / 24px / Discovery">
+    <rect id="Icon_24px_Discovery_Background_" data-name="Icon / 24px / Discovery (Background)" width="16" height="16" fill="none"/>
+    <g id="Discovery" transform="translate(1.833 1.833)">
+      <path id="Stroke_1" data-name="Stroke 1" d="M6.167,12.333c4.625,0,6.167-1.542,6.167-6.167S10.791,0,6.167,0,0,1.542,0,6.167,1.542,12.333,6.167,12.333Z" fill="none" stroke="#f5204e" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" stroke-dasharray="0 0"/>
+      <path id="Stroke_3" data-name="Stroke 3" d="M1.049,1.049,4.4,0,3.353,3.353,0,4.4Z" transform="translate(3.965 3.965)" fill="none" stroke="#f5204e" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" stroke-dasharray="0 0"/>
+    </g>
+  </g>
+</svg>
